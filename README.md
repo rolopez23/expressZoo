@@ -2,6 +2,6 @@
 Simple express server and async logic example
 
 ## Setup
-npm install
-npm start
+### npm install
+### npm start
 
